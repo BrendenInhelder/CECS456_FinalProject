@@ -8,7 +8,7 @@ Team Members: \
 3	Brenden Inhelder\
 4	Onyedikachi Benjamin Okenwa\
 5	Williams Nguyen\
-6	Sopheak Chim
+6	Sopheak Chim\
 7 Dylan Ramos
 
 # Task: Regression
